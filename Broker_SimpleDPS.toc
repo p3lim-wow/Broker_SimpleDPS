@@ -1,0 +1,11 @@
+## Interface: 30100
+## Author: p3lim
+## Version: 30100.wowi:revision
+## Title: Broker SimpleDPS
+## Notes: LDB player DPS
+
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+Broker_SimpleDPS.lua
